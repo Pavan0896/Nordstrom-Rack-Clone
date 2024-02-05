@@ -1,4 +1,4 @@
-# project
+# Project
 NordstromRack website clone
 
 # Description 
