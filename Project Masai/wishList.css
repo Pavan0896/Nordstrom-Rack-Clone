@@ -286,9 +286,9 @@ hr {
   }
 
   #footer {
-    min-height: 80px;
-    position: fixed;
-    bottom: 0;
+    min-height: 5vh !important;
+    position: fixed !;
+    bottom: 0 !important;
   }
 }
 
@@ -432,9 +432,9 @@ hr {
   }
 
   #footer {
-    /* min-height: 0px; */
-    position: fixed;
-    bottom: 0;
+    min-height: 5vh !important;
+    position: fixed !;
+    bottom: 0 !important;
     width: 100%;
   }
 }

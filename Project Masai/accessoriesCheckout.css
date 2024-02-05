@@ -258,9 +258,9 @@ hr {
   }
 
   #footer {
-    min-height: 80px;
-    position: fixed;
-    bottom: 0;
+    min-height: 5vh !important;
+    position: fixed !;
+    bottom: 0 !important;
   }
 
   #footer h5 {
@@ -404,5 +404,11 @@ hr {
   .sticky {
     position: sticky;
     top: 0;
+  }
+
+  #footer {
+    min-height: 5vh !important;
+    position: fixed !;
+    bottom: 0 !important;
   }
 }

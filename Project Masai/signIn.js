@@ -2,8 +2,8 @@ var sign_in = JSON.parse(localStorage.getItem("sign-in")) || [];
 
 var btn = document.querySelector("#signIn form");
 btn.addEventListener("submit", () => {
-    event.preventDefault();
-    location.href = "./index.html"
+  event.preventDefault();
+  location.href = "./index.html";
   var email = document.getElementById("email");
 
   var userName = document.getElementById("userName");
