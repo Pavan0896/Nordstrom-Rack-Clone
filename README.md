@@ -2,4 +2,16 @@
 NordstromRack website clone
 
 # Description 
-This is a cloned website of Nordstrom Rack. In this there are various sections to select the items from. The selected items can be added to cart or wish-list. Before clicking on buy, there is a sign-in option. After buying, the items purchased before can be viewed. 
+This is a cloned website of Nordstrom Rack. It is a project created to understand how an actual e-commerce webpages works, the functionality behind it using only javascript.
+
+# Techs used
+* javascript.
+* bootstrap5.
+
+# Features 
+* Easy sign-in from homepage.
+* View different products from card-slider.
+* Sort items based on your interest.
+
+# Inspiration
+This cloned website is inspired from Nordstrom Rack website, an American e-commerce website. 
