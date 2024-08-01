@@ -1,17 +1,18 @@
 # Project
 NordstromRack website clone
 
-# Description 
-This is a cloned website of Nordstrom Rack. It is a project created to understand how an actual e-commerce webpages works, the functionality behind it using only javascript.
+## Description 
+The Nordstrom Rack Clone is a project designed to mimic the functionality and design of the actual Nordstrom Rack e-commerce website. This project was undertaken to gain a deeper understanding of how e-commerce websites operate, focusing on client-side functionality using JavaScript and Bootstrap.
 
-# Techs used
-* javascript.
-* bootstrap5.
+## Technologies Used
 
-# Features 
-* Easy sign-in from homepage.
-* View different products from card-slider.
-* Sort items based on your interest.
+- **JavaScript**: The core language used for scripting and implementing interactive features.
+- **Bootstrap 5**: A responsive and modern CSS framework used for styling and layout.
+## Features
+
+- **User Authentication**: Seamless sign-in experience directly from the homepage.
+- **Product Showcase**: Browse a variety of products displayed through a dynamic card slider.
+- **Product Sorting**: Sort items by various criteria, allowing users to find products based on their preferences.
 
 # Inspiration
 This cloned website is inspired from Nordstrom Rack website, an American e-commerce website. 
